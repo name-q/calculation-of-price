@@ -5,7 +5,6 @@
      yarn && yarn start
      
      #npm
-
 ​     npm install && npm start
 ```
 
